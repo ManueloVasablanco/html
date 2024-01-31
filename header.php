@@ -4,13 +4,13 @@
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <link rel="shortcut icon" href="img/favicon.png" type="image/png">
-   <title>Діджитал агентство AdsUa — комплексне просування та розробка сайтів в Україні: Дніпро, Київ, Харків</title>
-   <meta name="title" content="Діджитал агентство AdsUa — комплексне просування та розробка сайтів в Україні: Дніпро, Київ, Харків">
-   <meta name="description" content="Маркетингова студія AdsUa пропонує послуги: Пошукове SEO Просування Сайтів, PPC">
+   <title>Диджитал агентство Брума & К - комплексное продвижение и разработка сайтов в Армении, Беларуси, Казахстане, Киргизстане, России и Таджикистане.</title>
+   <meta name="title" content="Диджитал агентство Брума & К - комплексное продвижение и разработка сайтов в Армении, Беларуси, Казахстане, Киргизстане, России и Таджикистане.">
+   <meta name="description" content="Диджитал агентство Брума & К - комплексное продвижение и разработка сайтов в Армении, Беларуси, Казахстане, Киргизстане, России и Таджикистане.">
    <meta property="og:type" content="website">
-   <meta property="og:title" content="Діджитал агентство AdsUa — комплексне просування та розробка сайтів в Україні: Дніпро, Київ, Харків">
-   <meta property="og:site_name" content="AdsOn">
-   <meta property="og:description" content="Маркетингова студія AdsUa пропонує послуги: Пошукове SEO Просування Сайтів, PPC ✅ Працюємо по всій території України: у Дніпрі, Києві, Харкові, Одесі">
+   <meta property="og:title" content="Диджитал агентство Брума & К - комплексное продвижение и разработка сайтов в Армении, Беларуси, Казахстане, Киргизстане, России и Таджикистане.">
+   <meta property="og:site_name" content="Диджитал агентство Брума & К">
+   <meta property="og:description" content="Диджитал агентство Брума & К - комплексное продвижение и разработка сайтов в Армении, Беларуси, Казахстане, Киргизстане, России и Таджикистане.">
    <link href="combine/386a506c621dc9a506591ac8274875d6-1638387025.css" rel="stylesheet" type="text/css">
 </head>
 <body data-lang="uk">
@@ -27,7 +27,7 @@
                         <li class="fz16"><a class="fz16 " href="ppc.html">Контекстная реклама</a></li>
                         <li class="fz16"><a class="fz16 " href="seo-prosuvannya-sajtu.html">SEO-продвижение</a></li>
                         <li class="fz16"><a class="fz16 " href="payment.html">Оплата</a></li>
-                        <li class="fz16"><a class="fz16 " href="kontakti.html">Контакты</a></li>
+                        <li class="fz16"><a class="fz16 " href="kontakti.php">Контакты</a></li>
                         <li><a class="language-switch" data-lang="en">EN</a></li>
                     </ul>
                 </div>

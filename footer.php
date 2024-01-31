@@ -4,9 +4,9 @@
             <div class="main-footer-item">
                 <ul>
                     <li class="fz14"><span class="fz14">Брума & К</span></li>
-                    <li class="fz14"><span class="fz14">Казахстан, Алматинская область, Алматы, Талгарская 6-20, 140003.</span></li>
-                    <li class="fz14"><a class="fz14" href="mailto:batyriev@adsua.com.ua">сергей@adsБрума.kz</a></li>
-                    <li class="fz14"><a href="tel:+380630204585" class="fz14">+XXXXXXXXXX</a></li>
+                    <li class="fz14"><span class="fz14">Казахстан, Павлодарская область, город Павлодар, улица Базана батыра, дом 8, офис 20, 140000</span></li>
+                    <li class="fz14"><a class="fz14" href="mailto:info@adsbruma.kz">info@adsbruma.kz</a></li>
+                    <li class="fz14"><a href="tel:+77782230916" class="fz14">+7 778 223 09 16</a></li>
                 </ul>
             </div>
             <div class="main-footer-item">
@@ -31,7 +31,7 @@
     </div>
     <div class="footer-copy">
         <div class="container w1240">
-            <p class="fz14" style="text-align: center;"><a href="index.php">Брума & К</a> © 2024 | Все права защищены</p>
+            <p class="fz14" style="text-align: center;"><a href="index.php">"Брума & К"</a> © 2024 | Все права защищены | ТОО "БРУМА СЕРГЕЙ ГЕОРГИЕВИЧ"</p>
         </div>
     </div>
 </footer>
