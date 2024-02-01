@@ -13,7 +13,7 @@
                 <div class="h4 section-title">Расскажите о проекте</div>
                 <div class="form-row val"><input oninput="checkValue(this)" name="msg" id="msg" type="text"><label for="msg">Расскажите о проекте</label></div>
                 <div class="form-action">
-                    <div class="action-buttons"><button data-attach-loading class="btn red">Отправить заявку</button><label for="file" class="btn-load"><span class="fz16">Прикрепить файл</span></label><input style="display: none" name="attachment" type="file" id="file"><span onclick="resetFile(this)" id="file-upload-filename"></span></div>                     <div class="accept">Натискаючи на кнопку, ви даєте згоду на <a class="policy" href="policy.html" target="_blank">обробку персональних даних і погоджуєтеся з політикою конфіденційності.</a>
+                    <div class="action-buttons"><button data-attach-loading class="btn red">Отправить заявку</button><label for="file" class="btn-load"><span class="fz16">Прикрепить файл</span></label><input style="display: none" name="attachment" type="file" id="file"><span onclick="resetFile(this)" id="file-upload-filename"></span></div>                     <div class="accept">Натискаючи на кнопку, ви даєте згоду на <a class="policy" href="policy.php" target="_blank">обробку персональних даних і погоджуєтеся з політикою конфіденційності.</a>
                 </div>
             </div>
         </form>

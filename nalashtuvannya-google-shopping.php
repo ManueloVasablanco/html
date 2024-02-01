@@ -247,7 +247,7 @@
             </div>
             <div class="item-row cost-value">
                <div class="p">Настройка товарных объявлений состоит из работ по проверке трекинга, товарного фида и настройке рекламных кампаний. Рекламный бюджет формируется и вносится в кабинет по отдельности.</div>
-               <div class="text-40 item-price">от 16 800 грн<span></span></div><a class="btn red" href="#form">Оставить заявку</a>
+               <div class="text-40 item-price">от 450 €<span></span></div><a class="btn red" href="#form">Оставить заявку</a>
             </div>
          </div>
       </div>

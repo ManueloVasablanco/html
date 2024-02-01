@@ -295,7 +295,7 @@
          <div class="text-40 section-title">Прочие услуги</div>
       </div>
       <div class="action-list">
-         <div class="action-lis-items full-list list"><a href="audit-kontekstnoy-reklamu.html" class="list-item">
+         <div class="action-lis-items full-list list"><a href="audit-kontekstnoy-reklamu.php" class="list-item">
                <div class="container w1240">
                   <div class="items-row type-one">
                      <div class="item-row">
@@ -306,7 +306,7 @@
                      </div>
                   </div>
                </div>
-            </a><a href="nalashtuvannya-google-shopping.html" class="list-item">
+            </a><a href="nalashtuvannya-google-shopping.php" class="list-item">
                <div class="container w1240">
                   <div class="items-row type-one">
                      <div class="item-row">
@@ -382,7 +382,7 @@
                <div class="form-row val"><input oninput="checkValue(this)" name="msg" id="msg" type="text"><label for="msg">Расскажите о проекте</label></div>
                <div class="form-action">
                   <div class="action-buttons"><button data-attach-loading class="btn red">Отправить заявку</button><label for="file" class="btn-load"><span class="fz16">Прикрепить файл</span></label><input style="display: none" name="attachment" type="file" id="file"><span onclick="resetFile(this)" id="file-upload-filename"></span></div>
-                  <div class="accept">Нажимая на кнопку, вы даете согласие на <a class="policy" href="policy.html" target="_blank">обработку персональных данных и согласны с политикой конфиденциальности.</a></a>
+                  <div class="accept">Нажимая на кнопку, вы даете согласие на <a class="policy" href="policy.php" target="_blank">обработку персональных данных и согласны с политикой конфиденциальности.</a></a>
                   </div>
                </div>
             </form>
@@ -451,7 +451,7 @@
                 <li>имиджевых проектов;</li>
                 <li>запуска ремаркетинга на аудиторию, которая уже просмотрела вашу рекламу.</li>
              </ul>
-             <h2>Почему стоит заказать контекстную рекламу в AdsUa</h2>
+             <h2>Почему стоит заказать контекстную рекламу в Брума & К</h2>
              <ul>
                 <li>проводим анализ и запуск рекламы за 1–2 дня;</li>
                 <li>настраиваем точный таргетинг, чтобы рекламу видела ваша целевая аудитория;</li>

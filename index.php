@@ -18,7 +18,7 @@
             </ul>
          </div>
          <div class="hero hero-image animate-index">
-            <img src="img/seoads.jpg" alt="seo AdsUa" class="main-img">
+            <img src="img/seoads.jpg" alt="seo Брума & К" class="main-img">
          </div>
       </div>
    </div>
