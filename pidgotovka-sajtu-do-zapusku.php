@@ -9,7 +9,7 @@
                       <div class="fz20">Готовим техническое задание для разработчиков сайта в соответствии с требованиями поисковых систем для корректного ранжирования сайта в будущем.</div><a class="btn red" href="#form">Оставить заявку</a >
                    </div>
                    <div class="item-row centered-item">
-                      <div class="hero-img hero-img-promotion"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Подготовка сайта к запуску" до запуска" data-src="img/1_rus_retina.jpg"></div>
+                      <div class="hero-img hero-img-promotion"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Подготовка сайта к запуску" до запуска" data-src="img/1_ukr_retina.jpg"></div>
                    </div>
                 </div>
              </div>
