@@ -261,20 +261,20 @@
    <div class="container w1240">
       <div class="text-40">Инструменты, с которыми мы работаем</div>
    </div>
-    <div class="container w1240">
-    <div class="grid-clients">
-        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/ahrefs.png"></div>
-        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/ga.png"></div>
-        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/topvisor.png"></div>
-        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/serpstat.png"></div>
-        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/seraking.png"></div>
-        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/checktrust.png"></div>
-        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/getoctobus.png"></div>
-        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/gsc.png"></div>
-        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/semrush.png"></div>
-        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/tech05.jpg"></div>
-    </div>
-    </div>
+   <div class="container w1240">
+         <div class="grid-clients">
+            <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/ahrefs.png"></div>
+            <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/ga.png"></div>
+            <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/topvisor.png"></div>
+            <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/serpstat.png"></div>
+            <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/seraking.png"></div>
+            <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/checktrust.png"></div>
+            <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/getoctobus.png"></div>
+            <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/gsc.png"></div>
+            <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/semrush.png"></div>
+            <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/tech05.jpg"></div>
+         </div>
+      </div>
 </div>
 <div class="section-wrapper animate-wrapper seo-promotion-list white-bg">
    <div class="container w1240">

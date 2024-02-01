@@ -12,19 +12,19 @@
             <div class="main-footer-item">
                 <ul>
                     <li class="fz14"><span class="fz14">Клиентам</span></li>
-                    <li class="fz14"><a href="pay-conditionals.html" class="fz14">Условия оплаты</a></li>
-                    <li class="fz14"><a href="offer.html" class="fz14">Договор оферты</a></li>
-                    <li class="fz14"><a href="privacy.html" class="fz14">Политика конфиденциальности</a></li>
+                    <li class="fz14"><a href="#" class="fz14">Условия оплаты</a></li>
+                    <li class="fz14"><a href="#" class="fz14">Договор оферты</a></li>
+                    <li class="fz14"><a href="privacy.php" class="fz14">Политика конфиденциальности</a></li>
                 </ul>
             </div>
             <div class="main-footer-item">
                 <ul>
                     <li class="fz14"><span class="fz14">Меню</span></li>
-                    <li class="fz14"><a href="index.html" class="fz14">Главная</a></li>
-                    <li class="fz14"><a href="ppc.html" class="fz14">Контекстная реклама</a></li>
-                    <li class="fz14"><a href="seo-prosuvannya-sajtu.html" class="fz14">SEO-продвижение</a></li>
-                    <li class="fz14"><a href="payment.html" class="fz14">Оплата</a></li>
-                    <li class="fz14"><a href="kontakti.html" class="fz14">Контакты</a></li>
+                    <li class="fz14"><a href="index.php" class="fz14">Главная</a></li>
+                    <li class="fz14"><a href="ppc.php" class="fz14">Контекстная реклама</a></li>
+                    <li class="fz14"><a href="seo-prosuvannya-sajtu.php" class="fz14">SEO-продвижение</a></li>
+                    <li class="fz14"><a href="payment.php" class="fz14">Оплата</a></li>
+                    <li class="fz14"><a href="kontakti.php" class="fz14">Контакты</a></li>
                 </ul>
             </div>
         </div>
