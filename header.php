@@ -24,9 +24,9 @@
                 <div class="top-header-action">
                     <ul class="top-header-nav">
                         <li class="fz16"><a class="fz16 " href="index.php">Главная</a></li>
-                        <li class="fz16"><a class="fz16 " href="ppc.html">Контекстная реклама</a></li>
-                        <li class="fz16"><a class="fz16 " href="seo-prosuvannya-sajtu.html">SEO-продвижение</a></li>
-                        <li class="fz16"><a class="fz16 " href="payment.html">Оплата</a></li>
+                        <li class="fz16"><a class="fz16 " href="ppc.php">Контекстная реклама</a></li>
+                        <li class="fz16"><a class="fz16 " href="seo-prosuvannya-sajtu.php">SEO-продвижение</a></li>
+                        <li class="fz16"><a class="fz16 " href="payment.php">Оплата</a></li>
                         <li class="fz16"><a class="fz16 " href="kontakti.php">Контакты</a></li>
                         <li><a class="language-switch" data-lang="en">EN</a></li>
                     </ul>

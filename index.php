@@ -9,10 +9,10 @@
                Увеличиваем прибыль бизнеса, используя digital-решения
             </div>
             <ul class="list-big">
-               <li><a class="more" href="seo-prosuvannya-sajtu.html"><span>SEO-продвижение сайтов</span><svg width="28" height="26" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <li><a class="more" href="seo-prosuvannya-sajtu.php"><span>SEO-продвижение сайтов</span><svg width="28" height="26" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M2 13h24m0 0L15.148 2M26 13L15.148 24" stroke="#E6232D" stroke-width="2" stroke-linecap="square" />
                      </svg></a></li>
-               <li><a class="more" href="ppc.html"><span>Контекстная реклама</span><svg width="28" height="26" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <li><a class="more" href="ppc.php"><span>Контекстная реклама</span><svg width="28" height="26" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M2 13h24m0 0L15.148 2M26 13L15.148 24" stroke="#E6232D" stroke-width="2" stroke-linecap="square" />
                      </svg></a></li>
             </ul>
@@ -28,17 +28,17 @@
       <div class="h2">SEO-продвижение сайтов</div>
       <div class="index-section items-row type-two">
          <div class="item-row w720">
-            <p class="p">SEO-продвижение сайта — наиболее эффективный и выгодный канал для получения клиентов из поисковых систем.</p><a href="seo-prosuvannya-sajtu.html" class="more"><span>Подробнее</span><svg width="28" height="26" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <p class="p">SEO-продвижение сайта — наиболее эффективный и выгодный канал для получения клиентов из поисковых систем.</p><a href="seo-prosuvannya-sajtu.php" class="more"><span>Подробнее</span><svg width="28" height="26" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M2 13h24m0 0L15.15 2M26 13L15.15 24" stroke="#E6232D" stroke-width="2" stroke-linecap="square"></path>
                </svg></a>
          </div>
          <div class="item-row">
             <ul class="services-child">
-               <li><a href="seo-audit-sajtiv.html">SEO-аудит сайтов</a></li>
-               <li><a href="prosuvannja-magaziniv.html">Продвижение интернет-магазинов</a></li>
-               <li><a href="pidgotovka-sajtu-do-zapusku.html">Подготовка сайта к запуску</a></li>
-               <li><a href="zbir-semantichnogo-yadra.html">Сбор семантического ядра сайта</a></li>
-               <li><a href="seo-prosuvannya-na-zahid.html">SEO-продвижение на Запад</a></li>
+               <li><a href="seo-audit-sajtiv.php">SEO-аудит сайтов</a></li>
+               <li><a href="prosuvannja-magaziniv.php">Продвижение интернет-магазинов</a></li>
+               <li><a href="pidgotovka-sajtu-do-zapusku.php">Подготовка сайта к запуску</a></li>
+               <li><a href="zbir-semantichnogo-yadra.php">Сбор семантического ядра сайта</a></li>
+               <li><a href="seo-prosuvannya-na-zahid.php">SEO-продвижение на Запад</a></li>
             </ul>
          </div>
       </div>
@@ -49,14 +49,14 @@
       <div class="h2">Контекстная реклама</div>
       <div class="index-section items-row type-two">
          <div class="item-row w720">
-            <p class="p">Правильная настройка рекламных кампаний позволяет увеличить целевой трафик, количество лидов и уровень продаж.</p><a href="ppc.html" class="more"><span>Подробнее</span><svg width="28" height="26" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <p class="p">Правильная настройка рекламных кампаний позволяет увеличить целевой трафик, количество лидов и уровень продаж.</p><a href="ppc.php" class="more"><span>Подробнее</span><svg width="28" height="26" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M2 13h24m0 0L15.15 2M26 13L15.15 24" stroke="#E6232D" stroke-width="2" stroke-linecap="square"></path>
                </svg></a>
          </div>
          <div class="item-row">
             <ul class="services-child">
-               <li><a href="audit-kontekstnoy-reklamu.html">Аудит контекстной рекламы Google Ads</a></li>
-               <li><a href="nalashtuvannya-google-shopping.html">Настройка рекламы в Google Shopping</a></li>
+               <li><a href="audit-kontekstnoy-reklamu.php">Аудит контекстной рекламы Google Ads</a></li>
+               <li><a href="nalashtuvannya-google-shopping.php">Настройка рекламы в Google Shopping</a></li>
             </ul>
          </div>
       </div>
