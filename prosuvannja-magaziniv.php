@@ -1,4 +1,250 @@
 <?php require 'header.php'; ?>
+<main>
+<div class="big hero-wrapper animate-wrapper mb-30 white-bg">
+   <div class="container w1240">
+      <div class="hero hero-services hero-services-promotion">
+         <div class="hero-grid">
+            <div class="item-row centered-item">
+               <div class="h2">Продвижение интернет-магазинов</div>
+               <div class="fz20">Применяем на сайтах онлайн-магазинов только действенные методики продвижения, составляем грамотную стратегию и выводим в ТОП Google</div><a class="btn red" href="#form">Оставить заявку</a></div>
+               <div class="item-row centered-item"></div>
+               <div class="hero-img hero-img-promotion"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Продвижение интернет-магазинов" title="Про -магазинов" data-src="img/seoseo.png"></div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="section-info service-section animate-wrapper">
+   <div class="container w1240">
+      <div class="hero-grid">
+         <div class="item-row centered-item" style="order: 0">
+            <div class="item-row-content">
+               <div class="text-32">Увеличьте прибыль вашего бизнеса</div>
+               <p>Позитивная динамика роста трафика и позиций в органической поисковой выдаче выведет ваш сайт в ТОП 5, тем самым увеличит поступление потенциальных клиентов и прибыль компании.</p>
+            </div>
+         </div>
+         <div class="item-row centered-item "><div class="item-row-content img"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt ="Увеличьте прибыль вашего бизнеса" title="Увеличьте прибыль вашего бизнеса" data-src="img/1_ukr_retina.jpg"></div>
+      </div>
+   </div>
+</div>
+</div>
+<div class="section-info service-section animate-wrapper">
+<div class="container w1240">
+   <div class="hero-grid">
+      <div class="item-row centered-item" style="order: 1">
+         <div class="item-row-content">
+            <div class="text-32">Получайте более лояльных пользователей</div>
+            <p>Более 80% пользователей после ввода поискового запроса предпочитают органическую выдачу. Когда ваш сайт в ТОПе, вы получаете более лояльных клиентов!</p>
+         </div>
+      </div>
+      <div class="item-row centered-item">
+         <div class="item-row-content img"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Получайте более лояльных пользователей" title="Получайте больше " data-src="img/seoseo14.jpg"></div>
+      </div>
+   </div>
+</div>
+</div>
+
+<div class="section-info service-section animate-wrapper">
+   <div class="container w1240">
+      <div class="hero-grid">
+         <div class="item-row centered-item" style="order: 0">
+            <div class="item-row-content">
+               <div class="text-32">Предоставляем подробные отчеты</div>
+               <p>Предоставляем подробные отчеты обо всех выполненных работах. Отображаем графики с динамикой трафика, а также аналитику достигнутых целевых действий на сайте.</p>
+            </div>
+         </div>
+         <div class="item-row centered-item" ><div class="item-row-content img"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt ="Предоставляем подробные отчеты" title="Предоставляем подробные отчеты" data-src="img/reportua.png"></div>
+      </div>
+   </div>
+</div>
+</div>
+<div class="section-info service-section animate-wrapper">
+   <div class="container w1240">
+      <div class="hero-grid">
+         <div class="item-row centered-item" style="order: 1">
+            <div class="item-row-content">
+               <div class="text-32">Онлайн с командой проекта через task-manager</div>
+               <p>Добавляем команду клиента к корпоративному таск-менеджеру: в любое время вы видите планирование и результаты по задачам на вашем проекте.</p>
+            </div>
+         </div>
+         <div class="item-row centered-item">
+            <div class="item-row-content img"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Онлайн с командой проекта через task-manager" title Онлайн с командой проекта через task-manager" data-src="img/seo%20illustratiom-3.jpg"></div>
+         </div>
+      </div>
+   </div>
+</div>
+
+
+<div class="list-items section-wrapper white-bg animate-wrapper">
+   <div class="steps-list-wrapper">
+      <div class="container w1240">
+         <div class="text-40">Этапы SEO-продвижения интернет-магазина</div>
+         <ul class="steps-grid">
+            <li class="step-item">
+               <div class="step-question">
+                  <div class="step-number">I</div>
+                  <div class="step-title">Проводим расширенный технический аудит сайта</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" xmlns= "http://www.w3.org/2000/svg">
+                     <rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
+                     <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
+                  </svg><svg width="35" height="35" class="step-icon step-icon-mobile" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                     <rect x="1" y="1" width="33" height="33" rx="16.5" stroke="#E6232D" stroke-linecap="square" />
+                     <path d="M17.5 9.88v15.24m0 0 6.98-6.9m-6.98 6.9-6.98-6.9" stroke="#E6232D" stroke-linecap="square" />
+                  </svg>
+               </div>
+               <div class="step-body">
+                  <div class="step-number"></div>
+                  <div class="step-answer">Проверяем сайт в соответствии с требованиями поисковой системы Google на наличие технических и программных ошибок.</div>
+                  <div class="step-icon"></div>
+               </div>
+            </li>
+            <li class="step-item">
+               <div class="step-question">
+                  <div class="step-number">II</div>
+                  <div class="step-title">Составляем техническую задачу на доработку</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" xmlns= "http://www.w3.org/2000/svg">
+                     <rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
+                     <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
+                  </svg><svg width="35" height="35" class="step-icon step-icon-mobile" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                     <rect x="1" y="1" width="33" height="33" rx="16.5" stroke="#E6232D" stroke-linecap="square" />
+                     <path d="M17.5 9.88v15.24m0 0 6.98-6.9m-6.98 6.9-6.98-6.9" stroke="#E6232D" stroke-linecap="square" />
+                  </svg>
+               </div>
+               <div class="step-body">
+                  <div class="step-number"></div>
+                  <div class="step-answer">По результатам технического аудита формируем детальное ТС для разработчиков для устранения выявленных ошибок и/или доработки. После реализации проводим проверку на корректность внедрения ТС.</div>
+                  <div class="step-icon"></div>
+               </div>
+            </li>
+
+               <li class="step-item">
+                   <div class="step-question">
+                      <div class="step-number">III</div>
+                      <div class="step-title">Выполняем сбор и кластеризацию семантического ядра</div><svg width="54" height="54" ="http://www.w3.org/2000/svg">
+                         <rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
+                         <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
+                      </svg><svg width="35" height="35" class="step-icon step-icon-mobile" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                         <rect x="1" y="1" width="33" height="33" rx="16.5" stroke="#E6232D" stroke-linecap="square" />
+                         <path d="M17.5 9.88v15.24m0 0 6.98-6.9m-6.98 6.9-6.98-6.9" stroke="#E6232D" stroke-linecap="square" />
+                      </svg>
+                   </div>
+                   <div class="step-body">
+                      <div class="step-number"></div>
+                      <div class="step-answer">Собираем семантическое ядро по структуре сайта. Расширяем его, определяя перспективу развития проекта. При необходимости составляем рекомендации на расширение структуры.</div>
+                      <div class="step-icon"></div>
+                   </div>
+                </li>
+                <li class="step-item">
+                   <div class="step-question">
+                      <div class="step-number">IV</div>
+                      <div class="step-title">Разрабатываем стратегию продвижения интернет-магазина</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" xmlns ="http://www.w3.org/2000/svg">
+                         <rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
+                         <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
+                      </svg><svg width="35" height="35" class="step-icon step-icon-mobile" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                         <rect x="1" y="1" width="33" height="33" rx="16.5" stroke="#E6232D" stroke-linecap="square" />
+                         <path d="M17.5 9.88v15.24m0 0 6.98-6.9m-6.98 6.9-6.98-6.9" stroke="#E6232D" stroke-linecap="square" />
+                      </svg>
+                   </div>
+                   <div class="step-body">
+                      <div class="step-number"></div>
+                      <div class="step-answer">Составляем индивидуальную стратегию продвижения магазина, а также ссылочную стратегию для проекта на 3-6 месяцев.</div>
+                      <div class="step-icon"></div>
+                   </div>
+                </li>
+
+
+
+               <li class="step-item">
+                   <div class="step-question">
+                      <div class="step-number">V</div>
+                      <div class="step-title">Выполняем анализ конкурентов и их ссылочной стратегии</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" xmlns="http://www.w3.org/2000/svg">
+                         <rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
+                         <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
+                      </svg><svg width="35" height="35" class="step-icon step-icon-mobile" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                         <rect x="1" y="1" width="33" height="33" rx="16.5" stroke="#E6232D" stroke-linecap="square" />
+                         <path d="M17.5 9.88v15.24m0 0 6.98-6.9m-6.98 6.9-6.98-6.9" stroke="#E6232D" stroke-linecap="square" />
+                      </svg>
+                   </div>
+                   <div class="step-body">
+                      <div class="step-number"></div>
+                      <div class="step-answer">Проводим анализ рынка конкурентов и поисковой выдачи, составляем развернутый документ по его результатам.</div>
+                      <div class="step-icon"></div>
+                   </div>
+                </li>
+                <li class="step-item">
+                   <div class="step-question">
+                      <div class="step-number">VI</div>
+                      <div class="step-title">Проводим внутреннюю оптимизацию сайта</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" xmlns=" http://www.w3.org/2000/svg">
+                         <rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
+                         <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
+                      </svg><svg width="35" height="35" class="step-icon step-icon-mobile" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                         <rect x="1" y="1" width="33" height="33" rx="16.5" stroke="#E6232D" stroke-linecap="square" />
+                         <path d="M17.5 9.88v15.24m0 0 6.98-6.9m-6.98 6.9-6.98-6.9" stroke="#E6232D" stroke-linecap="square" />
+                      </svg>
+                   </div>
+                   <div class="step-body">
+                      <div class="step-number"></div>
+                      <div class="step-answer">Готовим технические задания для написания текстов на категории, страницы и карточки товаров. Формируем ЦЕЛЬ на основе собранного семантического ядра. Даем рекомендации по оптимизации карт товаров.</div>
+                      <div class="step-icon"></div>
+                   </div>
+                </li>
+
+
+               <li class="step-item">
+                   <div class="step-question">
+                      <div class="step-number">VII</div>
+                      <div class="step-title">Составляем анкорную и ссылочную стратегии</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" xmlns= "http://www.w3.org/2000/svg">
+                         <rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
+                         <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
+                      </svg><svg width="35" height="35" class="step-icon step-icon-mobile" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                         <rect x="1" y="1" width="33" height="33" rx="16.5" stroke="#E6232D" stroke-linecap="square" />
+                         <path d="M17.5 9.88v15.24m0 0 6.98-6.9m-6.98 6.9-6.98-6.9" stroke="#E6232D" stroke-linecap="square" />
+                      </svg>
+                   </div>
+                   <div class="step-body">
+                      <div class="step-number"></div>
+                      <div class="step-answer">Подбираем площадки для закупки вечных ссылок, local и крауд-маркетинга.</div>
+                      <div class="step-icon"></div>
+                   </div>
+                </li>
+                <li class="step-item">
+                   <div class="step-question">
+                      <div class="step-number">IIX</div>
+                      <div class="step-title">Закупаем вечные ссылки</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" xmlns="http ://www.w3.org/2000/svg">
+                         <rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
+                         <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
+                      </svg><svg width="35" height="35" class="step-icon step-icon-mobile" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                         <rect x="1" y="1" width="33" height="33" rx="16.5" stroke="#E6232D" stroke-linecap="square" />
+                         <path d="M17.5 9.88v15.24m0 0 6.98-6.9m-6.98 6.9-6.98-6.9" stroke="#E6232D" stroke-linecap="square" />
+                      </svg>
+                   </div>
+                   <div class="step-body">
+                      <div class="step-number"></div>
+                      <div class="step-answer">Производим подбор и закупку вечных ссылок, а также размещаем материалы через Аутрич, локальные каталоги и с помощью крауд технологий.</div>
+                      <div class="step-icon"></div>
+                   </div>
+                </li>
+
+                <li class="step-item">
+                  <div class="step-question">
+                     <div class="step-number">IX</div>
+                     <div class="step-title">Готовим ежемесячную отчетность и представляем ее клиенту</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
+                        <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
+                     </svg><svg width="35" height="35" class="step-icon step-icon-mobile" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                        <rect x="1" y="1" width="33" height="33" rx="16.5" stroke="#E6232D" stroke-linecap="square" />
+                        <path d="M17.5 9.88v15.24m0 0 6.98-6.9m-6.98 6.9-6.98-6.9" stroke="#E6232D" stroke-linecap="square" />
+                     </svg>
+                  </div>
+                  <div class="step-body">
+                     <div class="step-number"></div>
+                     <div class="step-answer">Составляем детализированный отчет о выполненных работах. Передаем информацию о размещенных ссылках и позициях сайта в динамике, а также о полученных целевых обращениях через органику.</div>
+                     <div class="step-icon"></div>
+                  </div>
+               </li>
+            </ul>
+         </div>
+      </div>
+   </div>
+
 
 
 
