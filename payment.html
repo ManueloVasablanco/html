@@ -1,72 +1,3 @@
-<?php require 'header.php'; ?>
-<body data-lang="uk">
-   <style>
-      .payments__title {
-         text-align: center;
-      }
-
-      .payments__form {
-         display: flex;
-         flex-direction: column;
-         gap: 30px;
-         max-width: 500px;
-         margin: 0 auto;
-      }
-
-      .form-checkbox {
-         display: flex;
-         gap: 10px;
-         justify-content: center;
-      }
-
-      .form-checkbox label {
-         cursor: pointer;
-         font-size: 16px;
-      }
-
-      .form-checkbox input[type="checkbox"] {
-         -webkit-appearance: auto;
-         -moz-appearance: auto;
-         appearance: auto;
-      }
-
-      #payment-form-currency {
-         width: 100%;
-         height: 100%;
-      }
-
-      #payment-form-currency {
-         cursor: pointer;
-         margin: 0px -15px;
-         padding: 0 15px;
-         width: calc(100% + 30px);
-      }
-
-      #payment-form-currency:required:invalid {
-         color: #808080;
-      }
-
-      .error {
-         padding: 5px 10px 25px;
-         opacity: 0;
-         transition: .2s;
-         pointer-events: none;
-         visibility: hidden;
-      }
-
-      .error.show {
-         opacity: 1;
-         pointer-events: all;
-         visibility: visible;
-      }
-
-      .error p {
-         text-align: center;
-         color: rgb(255, 78, 78);
-         font-weight: 700;
-      }
-   </style>
-<main>
 <div class="back-wrapper empty"></div>
 <div class="contacts-wrapper animate-wrapper">
    <div class="container w1240">
@@ -114,6 +45,3 @@
             </ul>
          </div>
       </div>
-</main>
-
-<?php require 'footer.php'; ?>
