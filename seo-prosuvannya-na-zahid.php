@@ -25,7 +25,7 @@
                          <p>Рост органического трафика и позиций в поисковой выдаче позволит вашему сайту попасть в ТОП 5, благодаря чему вы получите больше потенциальных клиентов и увеличите прибыль компании.</p>
                       </div>
                    </div>
-                   <div class="item-row centered-item" "><div class="item-row-content img"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt ="Увеличьте прибыль вашего бизнеса" title="Увеличьте прибыль вашего бизнеса" data-src="img/1_rus_retina.jpg"></div>
+                   <div class="item-row centered-item" "><div class="item-row-content img"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt ="Увеличьте прибыль вашего бизнеса" title="Увеличьте прибыль вашего бизнеса" data-src="img/1_ukr_retina.jpg"></div>
                 </div>
              </div>
           </div>
