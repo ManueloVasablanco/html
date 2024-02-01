@@ -171,7 +171,7 @@
             <li class="step-item">
                <div class="step-question">
                   <div class="step-number">VI</div>
-                  Выполняем работы по внутренней оптимизации сайта</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" ="http://www.w3.org/2000/svg">
+                  <div class="step-answer">Выполняем работы по внутренней оптимизации сайта</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" ="http://www.w3.org/2000/svg">
                      <rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
                      <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
                   </svg><svg width="35" height="35" class="step-icon step-icon-mobile" fill="none" xmlns="http://www.w3.org/2000/svg" >

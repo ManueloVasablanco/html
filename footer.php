@@ -31,7 +31,7 @@
     </div>
     <div class="footer-copy">
         <div class="container w1240">
-            <p class="fz14" style="text-align: center;"><a href="index.php">"Брума & К"</a> © 2024 | Все права защищены | ТОО "БРУМА СЕРГЕЙ ГЕОРГИЕВИЧ"</p>
+            <p class="fz14" style="text-align: center;"><a href="index.php">"Брума & К"</a> © 2024 | Все права защищены | ТОО "БРУМА СЕРГЕЙ ГЕОРГИЕВИЧ" | БИH: 240140026362</p>
         </div>
     </div>
 </footer>
