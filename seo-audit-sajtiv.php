@@ -135,30 +135,7 @@
    </div>
 </div>
 
-<div id="form" class="brief-services brief-wrapper section-wrapper animate-wrapper white-bg">
-         <div class="container w860 ">
-            <div class="brief">
-               <div class="h2 section-title with-more">Залиште заявку</div>
-               <form enctype="multipart/form-data" data-request="GlobalForm::onSend" data-request-validate data-request-files data-request-flash class="brief-form" data-request-success="window.dataLayer = window.dataLayer || []; window.dataLayer.push({'event': 'form_submit', 'data': $('.brief-form').serializeArray()});$('.brief-form').trigger('reset');$('.form-row').addClass('val');$('#file-upload-filename').text('');">
-                  <input type="hidden" name="lang" value="ua">
-                  <div class="h4 section-title">Контактні дані</div>
-                  <div class="brief-grid">
-                     <div class="form-row val"><input oninput="checkValue(this)" name="name" id="name" type="text"><label for="name">Ім'я та прізвище</label><span class="errors" data-validate-for="name"></span></div>
-                     <div class="form-row val"><input oninput="checkValue(this)" name="email" id="email" type="text"><label for="email">Ел. пошта</label><span class="errors" data-validate-for="email"></span></div>
-                     <div class="form-row val"><input oninput="checkValue(this)" name="tel" id="tel" type="text"><label for="tel">Телефон або месенджер</label><span class="errors" data-validate-for="tel"></span></div>
-                     <div class="form-row val"><input oninput="checkValue(this)" name="company" id="company" type="text"><label for="company">Компанія</label></div>
-                  </div>
-                  <div class="h4 section-title">Розкажіть про проєкт</div>
-                  <div class="form-row val"><input oninput="checkValue(this)" name="msg" id="msg" type="text"><label for="msg">Розкажіть про проєкт</label></div>
-                  <div class="form-action">
-                     <div class="action-buttons"><button data-attach-loading class="btn red">Відправити заявку</button><label for="file" class="btn-load"><span class="fz16">Прикріпити файл</span></label><input style="display: none" name="attachment" type="file" id="file"><span onclick="resetFile(this)" id="file-upload-filename"></span></div>
-                     <div class="accept">Натискаючи на кнопку, ви даєте згоду на <a class="policy" href="policy.php" target="_blank">обробку персональних даних і погоджуєтеся з політикою конфіденційності.</a>                     </div>
-                  </div>
-               </form>
-            </div>
-         </div>
-      </div>
-
+<?php require 'formular.php'; ?>
 
 
       <div class="mb-30 section-wrapper animate-wrapper seo-section-wrapper white-bg">
