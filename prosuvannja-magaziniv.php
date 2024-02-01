@@ -6,14 +6,19 @@
          <div class="hero-grid">
             <div class="item-row centered-item">
                <div class="h2">Продвижение интернет-магазинов</div>
-               <div class="fz20">Применяем на сайтах онлайн-магазинов только действенные методики продвижения, составляем грамотную стратегию и выводим в ТОП Google</div><a class="btn red" href="#form">Оставить заявку</a></div>
-               <div class="item-row centered-item"></div>
-               <div class="hero-img hero-img-promotion"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Продвижение интернет-магазинов" title="Про -магазинов" data-src="img/seoseo.png"></div>
+               <div class="fz20">Применяем на сайтах онлайн-магазинов только действенные методики продвижения, составляем грамотную стратегию и выводим в ТОП Google</div>
+                  <a class="btn red" href="#form">Оставить заявку</a>
+            </div>
+            <div class="item-row centered-item">
+               <div class="hero-img hero-img-promotion">
+                  <img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Продвижение интернет-магазинов" title="Про -магазинов" data-src="img/seoseo.png">
+               </div>
             </div>
          </div>
       </div>
    </div>
 </div>
+
 <div class="section-info service-section animate-wrapper">
    <div class="container w1240">
       <div class="hero-grid">
@@ -23,11 +28,15 @@
                <p>Позитивная динамика роста трафика и позиций в органической поисковой выдаче выведет ваш сайт в ТОП 5, тем самым увеличит поступление потенциальных клиентов и прибыль компании.</p>
             </div>
          </div>
-         <div class="item-row centered-item "><div class="item-row-content img"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt ="Увеличьте прибыль вашего бизнеса" title="Увеличьте прибыль вашего бизнеса" data-src="img/1_ukr_retina.jpg"></div>
+         <div class="item-row centered-item ">
+            <div class="item-row-content img">
+               <img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt ="Увеличьте прибыль вашего бизнеса" title="Увеличьте прибыль вашего бизнеса" data-src="img/1_ukr_retina.jpg">
+            </div>
+         </div>
       </div>
    </div>
 </div>
-</div>
+
 <div class="section-info service-section animate-wrapper">
 <div class="container w1240">
    <div class="hero-grid">
