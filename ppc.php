@@ -72,7 +72,7 @@
                   <p>В конце каждого отчетного периода формируем детализированные отчеты, содержащие динамику трафика, достигнутые цели по звонкам, заявкам и покупкам. Описываем результаты, предлагаем план работ и бюджеты на новый месяц.</p>
                </div>
             </div>
-            <div class="item-row centered-item" "><div class="item-row-content img"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt ="Ежемесячный отчет о выполненных работах" title="Ежемесячный отчет о выполненных работах" data-src="img/ppcregular-rus.png"></div>
+            <div class="item-row centered-item" "><div class="item-row-content img"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt ="Ежемесячный отчет о выполненных работах" title="Ежемесячный отчет о выполненных работах" data-src="img/ppcregular-ukr.png"></div>
          </div>
       </div>
    </div>
