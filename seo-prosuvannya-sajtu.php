@@ -27,7 +27,7 @@
                <p>Позитивная динамика роста трафика и позиций в органической поисковой выдаче выведет ваш сайт в ТОП 5, тем самым увеличит поток потенциальных клиентов и прибыль компании.</p>
             </div>
          </div>
-         <div class="item-row centered-item" "><div class="item-row-content img"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt ="Увеличьте прибыль вашего бизнеса" title="Увеличьте прибыль вашего бизнеса" data-src="img/1_rus_retina.jpg"></div>
+         <div class="item-row centered-item "><div class="item-row-content img"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt ="Увеличьте прибыль вашего бизнеса" title="Увеличьте прибыль вашего бизнеса" data-src="img/1_ukr_retina.jpg"></div>
       </div>
    </div>
 </div>
@@ -187,28 +187,27 @@
             </li>
             
             <li class="step-item">
-               <div class="step-question">
-                  <div class="step-number">VII</div>
-                  <div class="step-title">Составляем анкорную и ссылочную стратегии</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" xmlns= "http://www.w3.org/2000/svg">
-                     <rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
-                     <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
-                  </svg><svg width="35" height="35" class="step-icon step-icon-mobile" fill="none" xmlns="http://www.w3.org/2000/svg" >
-                     <rect x="1" y="1" width="33" height="33" rx="16.5" stroke="#E6232D" stroke-linecap="square" />
-                     <path d="M17.5 9.88v15.24m0 0 6.98-6.9m-6.98 6.9-6.98-6.9" stroke="#E6232D" stroke-linecap="square" />
-                  </svg>
-               </div>
-               <div class="step-body">
-                  <div class="step-number"></div>
-                  <div class="step-answer">На основании анализа конкурентов и анализа ниши разрабатываем ссылочную стратегию и подбираем площадки для размещения ссылок на них.</div>
-                  <div class="step-icon"></div>
-               </div>
+                <div class="step-question">
+                    <div class="step-number">VII</div>
+                    <div class="step-title">Составляем анкорную и ссылочную стратегии</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" xmlns= "http://www.w3.org/2000/svg"><rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
+                    <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
+                </svg><svg width="35" height="35" class="step-icon step-icon-mobile" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                    <rect x="1" y="1" width="33" height="33" rx="16.5" stroke="#E6232D" stroke-linecap="square" />
+                    <path d="M17.5 9.88v15.24m0 0 6.98-6.9m-6.98 6.9-6.98-6.9" stroke="#E6232D" stroke-linecap="square" />
+                </svg>
+            </div>
+            <div class="step-body">
+                <div class="step-number"></div>
+                <div class="step-answer">На основании анализа конкурентов и анализа ниши разрабатываем ссылочную стратегию и подбираем площадки для размещения ссылок на них.</div>
+                <div class="step-icon"></div>
+            </div>
             </li>
             <li class="step-item">
-               <div class="step-question">
-                  <div class="step-number">IIX</div>
-                  <div class="step-title">Выполняем закупку вечных ссылок</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" xmlns=" http://www.w3.org/2000/svg">
-                     <rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
-                     <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
+                <div class="step-question">
+                    <div class="step-number">IIX</div>
+                    <div class="step-title">Выполняем закупку вечных ссылок</div><svg width="54" height="54" class="step-icon step-icon-desktop" fill="none" xmlns=" http://www.w3.org/2000/svg">
+                    <rect x="1" y="1" width="52" height="52" rx="26" stroke="#E6232D" stroke-linecap="square" />
+                    <path d="M27 15v24m0 0 11-10.85M27 39 16 28.15" stroke="#E6232D" stroke-linecap="square" />
                   </svg><svg width="35" height="35" class="step-icon step-icon-mobile" fill="none" xmlns="http://www.w3.org/2000/svg" >
                      <rect x="1" y="1" width="33" height="33" rx="16.5" stroke="#E6232D" stroke-linecap="square" />
                      <path d="M17.5 9.88v15.24m0 0 6.98-6.9m-6.98 6.9-6.98-6.9" stroke="#E6232D" stroke-linecap="square" />
@@ -262,20 +261,20 @@
    <div class="container w1240">
       <div class="text-40">Инструменты, с которыми мы работаем</div>
    </div>
-   <div class="container w1240">
-      <div class="grid-clients">
-         <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAAAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img /ahrefs.png"></div>
-         <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAAAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img /ga.png"></div>
-         <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAAAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img /topvisor.png"></div>
-         <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAAAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img /serpstat.png"></div>
-         <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAAAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img /seraking.png"></div>
-         <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAAAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img /checktrust.png"></div>
-         <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAAAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img /getoctobus.png"></div>
-         <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAAAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img /gsc.png"></div>
-         <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAAAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img /semrush.png"></div>
-         <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAAAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img /tech05.jpg"></div>
-      </div>
-   </div>
+    <div class="container w1240">
+    <div class="grid-clients">
+        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/ahrefs.png"></div>
+        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/ga.png"></div>
+        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/topvisor.png"></div>
+        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/serpstat.png"></div>
+        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/seraking.png"></div>
+        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/checktrust.png"></div>
+        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/getoctobus.png"></div>
+        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/gsc.png"></div>
+        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/semrush.png"></div>
+        <div class="grid-clients-item"><img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Лого" title="Лого" data-src="img/tech05.jpg"></div>
+    </div>
+    </div>
 </div>
 <div class="section-wrapper animate-wrapper seo-promotion-list white-bg">
    <div class="container w1240">
